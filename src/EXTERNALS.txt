@@ -1,0 +1,1 @@
+cesstex.skin http://svn.affinitic.be/plone/cesstex/cesstex.skin/trunk
