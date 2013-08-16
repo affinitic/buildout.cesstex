@@ -1,1 +1,3 @@
+# Set externals with : svn propset svn:externals -F ./EXTERNALS.txt .
 cesstex.skin http://svn.affinitic.be/plone/cesstex/cesstex.skin/trunk
+cesstex.db.pgsql http://svn.affinitic.be/plone/cesstex/cesstex.db.pgsql/
